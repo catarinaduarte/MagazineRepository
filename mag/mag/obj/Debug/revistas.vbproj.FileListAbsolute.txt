@@ -1,0 +1,13 @@
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\bin\Debug\DBFinal.mdb
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\bin\Debug\revistas.exe.config
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\bin\Debug\revistas.exe
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\bin\Debug\revistas.pdb
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\bin\Debug\revistas.xml
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\obj\Debug\revistas.vbproj.AssemblyReference.cache
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\obj\Debug\revistas.Form1.resources
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\obj\Debug\revistas.Resources.resources
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\obj\Debug\revistas.vbproj.GenerateResource.cache
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\obj\Debug\revistas.vbproj.CoreCompileInputs.cache
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\obj\Debug\revistas.exe
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\obj\Debug\revistas.xml
+C:\Users\35196\Desktop\Trabalho Final\Revistas\revistas\revistas\obj\Debug\revistas.pdb
